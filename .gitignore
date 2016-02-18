@@ -1,0 +1,7 @@
+quartus/*
+quartus/db
+quartus/db/*
+!quartus/Makefile
+!quartus/HelloLCD1602.qpf
+!quartus/HelloLCD1602.qsf
+!quartus/A-C4E6
